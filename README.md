@@ -3,5 +3,8 @@
 I love python and c ++
 
 # contacts
-mial - alekszajcev906@gmail.com
-eth - 
+mail - alekszajcev906@gmail.com
+
+eth - ETH -0xa86c652307FdBeb123aE6636edFc8D25553143BE
+
+discord - alexzai007#3157
