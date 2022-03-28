@@ -5,6 +5,6 @@ I love python and c ++
 ### contacts
 ##### mail - alekszajcev906@gmail.com
 
-##### ETH -0xa86c652307FdBeb123aE6636edFc8D25553143BE
+##### ETH -THAunw83toH9Aiq2f3DYQAgkhV53xzsULL / TRX
 
 ##### discord - alexzai007#3157
