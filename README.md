@@ -1,3 +1,4 @@
+![620341_iVWY5Rp_stray](https://user-images.githubusercontent.com/52669201/192355156-86b44c27-327e-47ed-9abc-262571343821.jpg)
 
 
 ### Languages and Tools:
