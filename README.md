@@ -23,3 +23,8 @@
 
 
 
+
+
+
+![theshteves Github stats](https://github-readme-stats.vercel.app/api?username=AlexZai007&show_icons=true&count_private=true&hide=contribs)
+![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZai007&layout=compact)
